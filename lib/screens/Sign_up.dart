@@ -22,6 +22,12 @@ class _signUpPageState extends State<signUpPage> {
       body: Column(
         children: [
           Stack(
+
+
+
+
+
+            
             children: [
               Image.asset("assets/images/back.png"),
               Row(
